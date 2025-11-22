@@ -1,0 +1,21 @@
+{
+  "name": "x-tweet-suggested",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "csstype": "^3.2.3",
+    "undici-types": "^7.16.0"
+  }
+}
